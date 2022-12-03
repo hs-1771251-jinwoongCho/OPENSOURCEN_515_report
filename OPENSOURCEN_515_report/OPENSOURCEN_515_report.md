@@ -449,10 +449,10 @@ Font-Awesome
 
 ### 7.1 Flutter, PyTorch - BSD License
 - Flutter
-<img src="./Image_file/Flutter.jpeg" width="500">
+<img src="./Image_file/Flutter.jpeg" width="400">
 
 - PyTorch
-<img src="./Image_file/Pytorch_logo.png" width="500">
+<img src="./Image_file/Pytorch_logo.png" width="300">
 
 - BSD License
 
@@ -466,10 +466,10 @@ Font-Awesome
 
 ### 7.2 Pandas, Numpy - BSD 3-Clause License
 - Pandas
-<img src="./Image_file/Pandas_logo.png" width="500">
+<img src="./Image_file/Pandas_logo.png" width="400">
 
 - Numpy
-<img src="./Image_file/Numpy_logo.png" width="500">
+<img src="./Image_file/NumPy_logo.png" width="400">
 
 - BSD 3-Cluase License
 
@@ -481,10 +481,10 @@ Font-Awesome
 
 ### 7.3 AR core, Solr - Apache Lisence
 - AR core
-<img src="./Image_file/arcore_logo.png" width="500">
+<img src="./Image_file/arcore_logo.png" width="400">
 
 - Solr
-<img src="./Image_file/solr_logo.png" width="500">
+<img src="./Image_file/solr_logo.png" width="300">
 
 - Apache License
 
@@ -498,7 +498,7 @@ Font-Awesome
 
 ### 7.4 Font – awesome – SIL Open Font License
 - Font-awesome
-<img src="./Image_file/FontAwesome.jpeg" width="500">
+<img src="./Image_file/FontAwesome.jpeg" width="400">
 
 - SIL Open Font License
 
@@ -512,7 +512,7 @@ Font-Awesome
 
 ### 7.5 PostgreSQL - PostgreSQL License
 - PostgreSQL
-<img src="./Image_file/PostgreSQL.jpeg" width="500">
+<img src="./Image_file/PostgreSQL.jpeg" width="300">
 
 - PostgreSQL License
 
@@ -525,7 +525,7 @@ Font-Awesome
 
 ### 7.6 OpenStreetMap - Open Database License(ODbL)
 - OpenStreetMap
-<img src="./Image_file/OSM.jpeg" width="500">
+<img src="./Image_file/OSM.jpeg" width="200">
 
 - Open Database License(ODbL)
 
